@@ -16,7 +16,7 @@ Post questions and ideas as issues to this repository.
 
 ## Romy
 
-* Made a cute drawing :) will post it later
+* Made a cute drawing :) will post it later <3
 * __Suggestions for a Talk__ Late Night command line node.js sessions
 	* [https://github.com/romyilano/late-night-node-sessions](https://github.com/romyilano/late-night-node-sessions)
 	* talk that shows people how to make simple command line interface that access json on Oakland Open Data
@@ -24,3 +24,5 @@ Post questions and ideas as issues to this repository.
 		* Future: Have people parse data about Head Start Locations in Oakland [github](https://data.oaklandnet.com/Education/Head-Start-Locations/h2rc-b7xm)
 		 
 * Tech talks that are unique: Check out Kelsey Innis who combined high end computer science concepts with slides of Pam Grief, humor and Jenny Holzer artwork
+	* [Kelsey: Enjoy yourself because you can't change anything anyway - Immutable data in the real world](http://nerd.kelseyinnis.com/blog/2015/05/26/enjoy-yourself-because-you-cant-change-anything-anyway-immutable-data-in-the-real-world/) _awesome talk where she talks about functional data and uses Jenny Holzer slides the entire time!_
+	* [Resources for getting started with Functional programming in Scala](http://nerd.kelseyinnis.com/blog/2013/01/07/resources-for-getting-started-with-functional-programming-and-scala/) 
